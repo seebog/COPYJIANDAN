@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.lession5_lifecycle">
+    <!--android:screenOrientation="portrait"-->
+<!--强制竖屏肖像模式-->
+
+    <!--android:screenOrientation="landscape"-->
+    <!--强制横屏风景模式-->
+
+    <!--android:configChanges="keyboardHidden"-->
+    <!--软件盘隐藏销毁重建-->
+
+    <!--android:configChanges="keyboardHidden|orientation"-->
+    <!--2.0不会销毁重建-->
+    <!--android:configChanges="keyboardHidden|orientation|screenSize"-->
+    <!--4.0不会销毁重建    -->
+
+    <!--android:launchMode="s"-->
+    <!--任务模式-->
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="landscape"
+            >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".SecondActivity" />
+        <!--android:label="对话框"-->
+        <activity android:name=".ThirdActivity"
+                     android:theme="@style/Base.Theme.AppCompat.Dialog"
+
+            ></activity>
+    </application>
+
+</manifest>

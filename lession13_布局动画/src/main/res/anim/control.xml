@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--控制动画 radom reverse-->
+<layoutAnimation xmlns:android="http://schemas.android.com/apk/res/android">
+    android:animation="@anim/alpha"
+    android:animationOrder="normal"
+    android:delay="20%"
+
+</layoutAnimation>

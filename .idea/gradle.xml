@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/ip_bohaoqi" />
+            <option value="$PROJECT_DIR$/ip_shengdianxiaozhushou" />
+            <option value="$PROJECT_DIR$/lession10_ansyctask" />
+            <option value="$PROJECT_DIR$/lession10_threadtest" />
+            <option value="$PROJECT_DIR$/lession11_bindservice" />
+            <option value="$PROJECT_DIR$/lession11_bootsercice" />
+            <option value="$PROJECT_DIR$/lession11_intentservice" />
+            <option value="$PROJECT_DIR$/lession11_musicplayer" />
+            <option value="$PROJECT_DIR$/lession11_service" />
+            <option value="$PROJECT_DIR$/lession11_threadtest" />
+            <option value="$PROJECT_DIR$/lession11_发送广播" />
+            <option value="$PROJECT_DIR$/lession12_downloadimg" />
+            <option value="$PROJECT_DIR$/lession12_downloadimone" />
+            <option value="$PROJECT_DIR$/lession12_httplogin" />
+            <option value="$PROJECT_DIR$/lession12_mychatclient" />
+            <option value="$PROJECT_DIR$/lession12_mychatservice" />
+            <option value="$PROJECT_DIR$/lession12_weather" />
+            <option value="$PROJECT_DIR$/lession12_xml" />
+            <option value="$PROJECT_DIR$/lession13_alphaanim" />
+            <option value="$PROJECT_DIR$/lession13_colormatrix" />
+            <option value="$PROJECT_DIR$/lession13_custom_anim" />
+            <option value="$PROJECT_DIR$/lession13_frameanim" />
+            <option value="$PROJECT_DIR$/lession13_matrix" />
+            <option value="$PROJECT_DIR$/lession13_属性动画" />
+            <option value="$PROJECT_DIR$/lession13_布局动画" />
+            <option value="$PROJECT_DIR$/lession13_视图动画" />
+            <option value="$PROJECT_DIR$/lession14_touch" />
+            <option value="$PROJECT_DIR$/lession14_五点触摸" />
+            <option value="$PROJECT_DIR$/lession14_多点触摸" />
+            <option value="$PROJECT_DIR$/lession17_musicplayer" />
+            <option value="$PROJECT_DIR$/lession4_imageview" />
+            <option value="$PROJECT_DIR$/lession4_listview" />
+            <option value="$PROJECT_DIR$/lession5_exitapp" />
+            <option value="$PROJECT_DIR$/lession5_forresult" />
+            <option value="$PROJECT_DIR$/lession5_lifecycle" />
+            <option value="$PROJECT_DIR$/lession5_堆栈退出" />
+            <option value="$PROJECT_DIR$/lession6_intent" />
+            <option value="$PROJECT_DIR$/lession6_lunchmode" />
+            <option value="$PROJECT_DIR$/lession7_fragment1" />
+            <option value="$PROJECT_DIR$/lession7_fragment2" />
+            <option value="$PROJECT_DIR$/lession7_fragment3" />
+            <option value="$PROJECT_DIR$/lession7_inflater" />
+            <option value="$PROJECT_DIR$/lession7_listfragment" />
+            <option value="$PROJECT_DIR$/lession7_viewpager" />
+            <option value="$PROJECT_DIR$/lession8_book" />
+            <option value="$PROJECT_DIR$/lession8_innerfile" />
+            <option value="$PROJECT_DIR$/lession8_shared" />
+            <option value="$PROJECT_DIR$/lession_11开机启动" />
+            <option value="$PROJECT_DIR$/lession_login" />
+            <option value="$PROJECT_DIR$/myapplication" />
+            <option value="$PROJECT_DIR$/myapplication2" />
+            <option value="$PROJECT_DIR$/myfirstservice" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

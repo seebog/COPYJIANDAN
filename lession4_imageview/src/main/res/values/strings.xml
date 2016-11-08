@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lession4_imageview</string>
+    <string name="hello_world">hello</string>
+    <string name="action_settings">设置</string>
+</resources>

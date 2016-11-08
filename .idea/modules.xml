@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyApplicationdemoone.iml" filepath="$PROJECT_DIR$/MyApplicationdemoone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ip_bohaoqi/ip_bohaoqi.iml" filepath="$PROJECT_DIR$/ip_bohaoqi/ip_bohaoqi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ip_shengdianxiaozhushou/ip_shengdianxiaozhushou.iml" filepath="$PROJECT_DIR$/ip_shengdianxiaozhushou/ip_shengdianxiaozhushou.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lession10_ansyctask/lession10_ansyctask.iml" filepath="$PROJECT_DIR$/lession10_ansyctask/lession10_ansyctask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lession10_threadtest/lession10_threadtest.iml" filepath="$PROJECT_DIR$/lession10_threadtest/lession10_threadtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lession11_bindservice/lession11_bindservice.iml" filepath="$PROJECT_DIR$/lession11_bindservice/lession11_bindservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lession11_bootsercice/lession11_bootsercice.iml" filepath="$PROJECT_DIR$/lession11_bootsercice/lession11_bootsercice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lession11_intentservice/lession11_intentservice.iml" filepath="$PROJECT_DIR$/lession11_intentservice/lession11_intentservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lession11_musicplayer/lession11_musicplayer.iml" filepath="$PROJECT_DIR$/lession11_musicplayer/lession11_musicplayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lession11_service/lession11_service.iml" filepath="$PROJECT_DIR$/lession11_service/lession11_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lession11_threadtest/lession11_threadtest.iml" filepath="$PROJECT_DIR$/lession11_threadtest/lession11_threadtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lession11_发送广播/lession11_发送广播.iml" filepath="$PROJECT_DIR$/lession11_发送广播/lession11_发送广播.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lession12_downloadimg/lession12_downloadimg.iml" filepath="$PROJECT_DIR$/lession12_downloadimg/lession12_downloadimg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lession12_downloadimone/lession12_downloadimone.iml" filepath="$PROJECT_DIR$/lession12_downloadimone/lession12_downloadimone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lession12_httplogin/lession12_httplogin.iml" filepath="$PROJECT_DIR$/lession12_httplogin/lession12_httplogin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lession12_mychatclient/lession12_mychatclient.iml" filepath="$PROJECT_DIR$/lession12_mychatclient/lession12_mychatclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lession12_mychatservice/lession12_mychatservice.iml" filepath="$PROJECT_DIR$/lession12_mychatservice/lession12_mychatservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lession12_weather/lession12_weather.iml" filepath="$PROJECT_DIR$/lession12_weather/lession12_weather.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lession12_xml/lession12_xml.iml" filepath="$PROJECT_DIR$/lession12_xml/lession12_xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lession13_alphaanim/lession13_alphaanim.iml" filepath="$PROJECT_DIR$/lession13_alphaanim/lession13_alphaanim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lession13_colormatrix/lession13_colormatrix.iml" filepath="$PROJECT_DIR$/lession13_colormatrix/lession13_colormatrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lession13_custom_anim/lession13_custom_anim.iml" filepath="$PROJECT_DIR$/lession13_custom_anim/lession13_custom_anim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lession13_frameanim/lession13_frameanim.iml" filepath="$PROJECT_DIR$/lession13_frameanim/lession13_frameanim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lession13_matrix/lession13_matrix.iml" filepath="$PROJECT_DIR$/lession13_matrix/lession13_matrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lession13_属性动画/lession13_属性动画.iml" filepath="$PROJECT_DIR$/lession13_属性动画/lession13_属性动画.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lession13_布局动画/lession13_布局动画.iml" filepath="$PROJECT_DIR$/lession13_布局动画/lession13_布局动画.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lession13_视图动画/lession13_视图动画.iml" filepath="$PROJECT_DIR$/lession13_视图动画/lession13_视图动画.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lession14_touch/lession14_touch.iml" filepath="$PROJECT_DIR$/lession14_touch/lession14_touch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lession14_五点触摸/lession14_五点触摸.iml" filepath="$PROJECT_DIR$/lession14_五点触摸/lession14_五点触摸.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lession14_多点触摸/lession14_多点触摸.iml" filepath="$PROJECT_DIR$/lession14_多点触摸/lession14_多点触摸.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lession17_musicplayer/lession17_musicplayer.iml" filepath="$PROJECT_DIR$/lession17_musicplayer/lession17_musicplayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lession4_imageview/lession4_imageview.iml" filepath="$PROJECT_DIR$/lession4_imageview/lession4_imageview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lession4_listview/lession4_listview.iml" filepath="$PROJECT_DIR$/lession4_listview/lession4_listview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lession5_exitapp/lession5_exitapp.iml" filepath="$PROJECT_DIR$/lession5_exitapp/lession5_exitapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lession5_forresult/lession5_forresult.iml" filepath="$PROJECT_DIR$/lession5_forresult/lession5_forresult.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lession5_lifecycle/lession5_lifecycle.iml" filepath="$PROJECT_DIR$/lession5_lifecycle/lession5_lifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lession5_堆栈退出/lession5_堆栈退出.iml" filepath="$PROJECT_DIR$/lession5_堆栈退出/lession5_堆栈退出.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lession6_intent/lession6_intent.iml" filepath="$PROJECT_DIR$/lession6_intent/lession6_intent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lession6_lunchmode/lession6_lunchmode.iml" filepath="$PROJECT_DIR$/lession6_lunchmode/lession6_lunchmode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lession7_fragment1/lession7_fragment1.iml" filepath="$PROJECT_DIR$/lession7_fragment1/lession7_fragment1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lession7_fragment2/lession7_fragment2.iml" filepath="$PROJECT_DIR$/lession7_fragment2/lession7_fragment2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lession7_fragment3/lession7_fragment3.iml" filepath="$PROJECT_DIR$/lession7_fragment3/lession7_fragment3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lession7_inflater/lession7_inflater.iml" filepath="$PROJECT_DIR$/lession7_inflater/lession7_inflater.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lession7_listfragment/lession7_listfragment.iml" filepath="$PROJECT_DIR$/lession7_listfragment/lession7_listfragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lession7_viewpager/lession7_viewpager.iml" filepath="$PROJECT_DIR$/lession7_viewpager/lession7_viewpager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lession8_book/lession8_book.iml" filepath="$PROJECT_DIR$/lession8_book/lession8_book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lession8_innerfile/lession8_innerfile.iml" filepath="$PROJECT_DIR$/lession8_innerfile/lession8_innerfile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lession8_shared/lession8_shared.iml" filepath="$PROJECT_DIR$/lession8_shared/lession8_shared.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lession_11开机启动/lession_11开机启动.iml" filepath="$PROJECT_DIR$/lession_11开机启动/lession_11开机启动.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lession_login/lession_login.iml" filepath="$PROJECT_DIR$/lession_login/lession_login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication/myapplication.iml" filepath="$PROJECT_DIR$/myapplication/myapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication2/myapplication2.iml" filepath="$PROJECT_DIR$/myapplication2/myapplication2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myfirstservice/myfirstservice.iml" filepath="$PROJECT_DIR$/myfirstservice/myfirstservice.iml" />
+    </modules>
+  </component>
+</project>

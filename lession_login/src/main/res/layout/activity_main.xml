@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   android:orientation="vertical"
+    tools:context="com.example.lession_login.MainActivity">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="20dp"
+    android:paddingBottom="20dp"
+    android:background="@color/btn_back_color"
+    android:paddingLeft="20dp"
+    android:orientation="horizontal"
+    >
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/backtowd"
+        />
+    <TextView
+        android:textColor="@color/txt_whilte"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="用户登录"
+        android:textSize="20dp"
+        android:gravity="center"/>
+</LinearLayout>
+    <EditText
+        android:layout_marginTop="@dimen/btn_horizontal_margin"
+        android:layout_marginLeft="@dimen/btn_horizontal_margin"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:layout_marginRight="@dimen/btn_horizontal_margin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="请输入您的用户名"
+        android:textColor="#cccccc"
+        android:textSize="15dp"
+        android:background="@drawable/text_back_selector"
+
+        />
+
+    <EditText
+        android:layout_marginTop="@dimen/btn_horizontal_margin"
+        android:layout_marginLeft="@dimen/btn_horizontal_margin"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:layout_marginRight="@dimen/btn_horizontal_margin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="请输入密码"
+        android:textColor="#cccccc"
+        android:textSize="15dp"
+        android:background="@drawable/text_back_selector2"
+
+        />
+<Button
+    android:layout_marginTop="5dp"
+    android:layout_marginLeft="@dimen/btn_horizontal_margin"
+    android:layout_marginRight="@dimen/btn_horizontal_margin"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="登陆"
+    android:background="@drawable/btn_back_selector"
+
+   android:textColor="@color/txt_whilte"
+    android:textSize="20sp"
+    />
+    <!--android:layout_width="match_parent"-->
+    <!--<Button-->
+
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:background="@drawable/btn_up2"-->
+        <!--android:gravity="center"-->
+        <!--/>-->
+
+</LinearLayout>

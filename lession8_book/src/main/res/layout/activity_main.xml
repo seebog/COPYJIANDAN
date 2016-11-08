@@ -1,0 +1,73 @@
+<ScrollView  xmlns:android="http://schemas.android.com/apk/res/android"
+    android:scrollbars="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <EditText  android:id="@+id/bookIdTxt"
+        android:text=""
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="请输入Id"
+        android:singleLine="true"
+        />
+    <EditText  android:id="@+id/bookNameTxt"
+        android:text=""
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="请输入书名"
+        android:singleLine="true"
+        />
+    <EditText  android:id="@+id/bookAuthorTxt"
+        android:text=""
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="请输入作者"
+        android:singleLine="true"
+        />
+    <EditText  android:id="@+id/bookPriceTxt"
+        android:text=""
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="请输入价格"
+        android:inputType="numberDecimal"
+        android:singleLine="true"
+        />
+    <Button android:id="@+id/addBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="添加"
+        />
+    <Button android:id="@+id/findBookByIdBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="根据Id查询"
+        />
+    <Button android:id="@+id/findAllBookBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="查询所有信息"
+        />
+    <Button android:id="@+id/delByIdBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="根据Id删除"
+        />
+    <Button android:id="@+id/updateBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="修改图书信息"
+        />
+     <ListView android:id="@+id/bookLsv"
+         android:layout_width="match_parent"
+         android:layout_height="match_parent">
+
+     </ListView>
+</LinearLayout>
+
+</ScrollView>

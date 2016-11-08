@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">lession4_listview</string>
+    <string-array name="citys">
+        <item>长沙</item>
+        <item>北京</item>
+        <item>上海</item>
+        <item>南京</item>
+        <item>广东</item>
+        <item>深圳</item>
+
+    </string-array>
+    <string-array name="appitem">
+        <item>数组适配器</item>
+        <item>简单适配器</item>
+        <item>自定义适配器</item>
+        <item>ListView的优化</item>
+        <item>第三方组件--下拉刷新列表框(PullToRefreshListView)</item>
+    </string-array>
+
+
+</resources>
+
